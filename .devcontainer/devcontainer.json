@@ -1,0 +1,16 @@
+{
+  "name": "tsdump",
+  "workspaceFolder": "/workspaces/tsdump",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "remoteEnv": {},
+  "mounts": [
+  ],
+  "settings": {
+    "files.eol": "\n",
+    "editor.tabSize": 2
+  },
+  "extensions": [
+  ]
+}
